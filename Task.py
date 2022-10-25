@@ -11,3 +11,5 @@ elif (z == '*'):
     print(x*y)
 elif (z == '/'):
     print(x/y)
+elif (z == '**'):
+    print(x ** y)
